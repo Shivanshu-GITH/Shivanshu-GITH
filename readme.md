@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" width="85%" />
-</p>
-
-<h2 align="center" style="margin-top: 8px;">
-  GitHub 3D Contribution
-</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
 
 <table align="center">
   <tr>
