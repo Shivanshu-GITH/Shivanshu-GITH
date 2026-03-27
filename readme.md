@@ -146,7 +146,7 @@ const shivanshu = {
 | 🌱 **Learning** | Advanced DSA & System Design |
 | 💬 **Ask Me About** | C++, JavaScript, React, Node.js, MongoDB |
 | ⚡ **Fun Fact** | I debug with `console.log` and I'm proud of it |
-| 🎯 **2025 Goal** | Contribute to Open Source & Land a Great Internship |
+| 🎯 **2026 Goal** | Contribute to Open Source & Land a Great Internship |
 
 ---
 
