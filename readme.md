@@ -23,8 +23,6 @@ const shivanshu = {
   stack     : ["React", "Node.js", "Express", "MongoDB", "SQL"],
   learning  : ["System Design", "Advanced DSA"],
   hobbies   : ["Coding", "Problem Solving", "Building Projects"],
-  funFact   : "10 types of people exist — those who understand
-               binary, and those who don't 😄"
 };
 ```
 
@@ -113,24 +111,6 @@ const shivanshu = {
 </div>
 
 ---
-
-## 📦 Most Used Languages & Repos
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/
-cards/repos-per-language?username=Shivanshu-GITH&
-theme=github_dark" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/
-cards/most-commit-language?username=Shivanshu-GITH&
-theme=github_dark" />
-</div>
-
-
----
-
-
 
 ## 💡 Dev Quote of the Day
 
