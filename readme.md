@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/varadisthedev/assets/4c5271e3ffb5da0af071195cf96533aabff4a9d0/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="260" alt="coding gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
 ```javascript
 const shivanshu = {
@@ -95,6 +95,7 @@ const shivanshu = {
   </tr>
 </table>
 
+&nbsp;
 ---
 
 ## 📈 Contribution Graph
@@ -113,13 +114,23 @@ const shivanshu = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📦 Most Used Languages & Repos
+
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshu-GITH&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/
+cards/repos-per-language?username=Shivanshu-GITH&
+theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/
+cards/most-commit-language?username=Shivanshu-GITH&
+theme=github_dark" />
 </div>
 
+
 ---
+
+
 
 ## 💡 Dev Quote of the Day
 
@@ -132,15 +143,15 @@ const shivanshu = {
 ## 🌐 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/YOUR_HANDLE">
+  <a href="https://leetcode.com/Shivanshu_Leet/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/YOUR_HANDLE">
+  <a href="https://www.geeksforgeeks.org/user/shivano09i">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+  <a href="https://codeforces.com/profile/shivanshu.um">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </div>
@@ -166,17 +177,14 @@ const shivanshu = {
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shivanshutiwarium">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:shivanshu.um@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </div>
 
 <br/>
