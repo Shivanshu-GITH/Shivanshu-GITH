@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FF2F92&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Shivanshu+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Building+Cool+Stuff+Every+Day+%F0%9F%94%A5;Let%27s+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF2F92&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Shivanshu+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Building+Cool+Stuff+Every+Day+%F0%9F%94%A5;Let%27s+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<img align="right" src="https://raw.githubusercontent.com/varadisthedev/assets/4c5271e3ffb5da0af071195cf96533aabff4a9d0/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="260" alt="coding gif" />
 
 ```javascript
 const shivanshu = {
@@ -79,24 +79,36 @@ const shivanshu = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshu-GITH&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-GITH&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shivanshu-GITH&theme=radical&hide_border=true" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivanshu-GITH&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Shivanshu-GITH&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivanshu-GITH&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu-GITH&bg_color=0d1117&color=ff4d8d&line=ff2f92&point=ff85c2&area=true&hide_border=true&custom_title=Shivanshu%27s%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu-GITH&bg_color=0d1117&color=ff4d8d&line=ff2f92&point=ff85c2&area=true&area_color=ff2f92&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -104,24 +116,7 @@ const shivanshu = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshu-GITH&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  TO ACTIVATE THE SNAKE — one-time setup:
-  1. Go to: github.com/Shivanshu-GITH/Shivanshu-GITH → Actions tab
-  2. Click "New workflow" → "set up a workflow yourself"
-  3. Name it snake.yml and paste: https://github.com/Platane/snk#readme
-  4. Run it manually once — it creates the SVG on the "output" branch
-  5. The snake below will then display automatically!
--->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shivanshu-GITH/Shivanshu-GITH/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshu-GITH&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
@@ -186,9 +181,21 @@ const shivanshu = {
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivanshu-GITH&style=for-the-badge&color=ff2f92&label=PROFILE+VIEWS" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="90" height="90" alt="mona loading" />
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Shivanshu-GITH&style=for-the-badge&color=ff2f92&label=PROFILE+VIEWS" alt="Profile View Counter" />
+    </td>
+    <td align="center">
+      <em>"There are 10 types of people in this world:<br/>those who understand binary and those who don't."</em>
+    </td>
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/varadisthedev/assets/4c5271e3ffb5da0af071195cf96533aabff4a9d0/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="180" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
