@@ -106,7 +106,7 @@ const shivanshu = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-GITH&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-GITH&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=Shivanshu-GITH&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -167,7 +167,7 @@ const shivanshu = {
 ## 🎯 Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.com/Shivanshu_Leet?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Shivanshu_Leet?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <br/>
@@ -254,7 +254,7 @@ const shivanshu = {
 ## 😄 Random Coding Joke
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=%230d1117&borderColor=%23ff2f92&textColor=%23ffffff&qColor=%23FF2F92&aColor=%23ff6b9d" alt="Coding Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=%230d1117&borderColor=%23ff2f92&textColor=%23ffffff&qColor=%23FF2F92&aColor=%23ff6b9d" alt="Coding Joke" />
 </div>
 
 ---
