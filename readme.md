@@ -192,18 +192,23 @@ const shivanshu = {
 
 <!--
   ⚙️  ONE-TIME SETUP — takes 2 minutes:
-  1. In your profile repo (Shivanshu-GITH/Shivanshu-GITH), create the file:
+  1. In your profile repo (Shivanshu-GITH/Shivanshu-GITH), open (or create):
          .github/workflows/snake.yml
-  2. Paste this content inside that file:
+  2. Paste this content inside that file (replace anything already there):
 
       name: Generate Snake
       on:
         schedule:
           - cron: "0 */12 * * *"
         workflow_dispatch:
+        push:
+          branches:
+            - main
       jobs:
         generate:
           runs-on: ubuntu-latest
+          permissions:
+            contents: write
           steps:
             - uses: Platane/snk@v3
               with:
@@ -220,8 +225,15 @@ const shivanshu = {
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  3. Go to Actions tab → Run workflow manually once.
-  The snake will then regenerate every 12 hours using your real commits.
+  3. Commit it. Because of the "push" trigger above, committing to main
+     fires the workflow immediately — no manual step needed. Check the
+     Actions tab; once the run is green, the output branch will exist
+     and the snake below will render.
+
+  ⚠️  If you already added this workflow WITHOUT the "permissions:
+      contents: write" line, that's why it silently failed — the
+      default token only had read access, so the step that pushes to
+      the "output" branch was rejected.
 -->
 
 <div align="center">
