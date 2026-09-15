@@ -100,40 +100,7 @@ const shivanshu = {
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-GITH&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=Shivanshu-GITH&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-GITH&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu-GITH&bg_color=0d1117&color=ff4d8d&line=ff2f92&point=ffffff&area=true&area_color=200020&hide_border=true&radius=8" alt="Contribution Activity Graph" width="100%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshu-GITH&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Profile Deep Dive
 
